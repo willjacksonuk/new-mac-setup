@@ -1,6 +1,8 @@
 # Web
 firefox
+
 google-chrome
+
 
 # Tools
 google-drive
@@ -14,7 +16,7 @@ iterm2
 visual-studio-code
 
 # Maintenance
-appl-cleaner
+app-cleaner
 
 # Photography
 vuescan
