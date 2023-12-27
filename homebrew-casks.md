@@ -31,3 +31,6 @@ affintiy-photo
 
 affinity-designer
 
+# Other
+Spotify
+
