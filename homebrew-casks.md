@@ -13,14 +13,15 @@ keka
 
 logi-options-plus
 
-libreoffice
+raycast
 
 # Productivity
-raycast
 
 iterm2
 
 visual-studio-code
+
+libreoffice
 
 # Maintenance
 app-cleaner
