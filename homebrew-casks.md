@@ -13,6 +13,7 @@ keka
 
 logi-options-plus
 
+libreoffice
 
 # Productivity
 raycast
@@ -32,5 +33,5 @@ affintiy-photo
 affinity-designer
 
 # Other
-Spotify
+spotify
 
