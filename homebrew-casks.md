@@ -29,7 +29,11 @@ app-cleaner
 # Photography
 vuescan
 
-affintiy-photo
+affinity-photo
+
+# Design
+
+affinity-designer
 
 affinity-designer
 
