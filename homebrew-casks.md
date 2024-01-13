@@ -35,8 +35,6 @@ affinity-photo
 
 affinity-designer
 
-affinity-designer
-
 # Other
 spotify
 
